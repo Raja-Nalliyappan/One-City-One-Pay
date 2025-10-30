@@ -1,0 +1,6 @@
+@One_City_One_Pay_HostAddress = http://localhost:5145
+
+GET {{One_City_One_Pay_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
