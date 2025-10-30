@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("One City One Pay")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+30bcc6839ffbb8b6586c92d658eb3fe0ebd5f5c5")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+52381880bbedfaa8c4645bd34c29f16eb657eee7")]
 [assembly: System.Reflection.AssemblyProductAttribute("One City One Pay")]
 [assembly: System.Reflection.AssemblyTitleAttribute("One City One Pay")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
